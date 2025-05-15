@@ -1,12 +1,12 @@
-<h1 align="center">Hey there 👋, I'm Antonio</h1>
+<h1>Hey there 👋, I'm Antonio</h1>
 
 ###
 
-<h3 align="center">An information technology student who loves to transform his ideas into reality</h3>
+<h3>An information technology student who loves to transform his ideas into reality</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -49,7 +49,7 @@
 
 - 📫 Reach me at **antoniojsm8090@gmail.com**
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=antoniojsanchezm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniojsanchezm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <h3>Connect with me:</h3>
