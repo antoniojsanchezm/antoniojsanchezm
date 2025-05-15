@@ -1,3 +1,5 @@
+<img src="./banner.png" />
+
 <h1>Hey there 👋, I'm Antonio</h1>
 
 ###
