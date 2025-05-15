@@ -41,7 +41,7 @@
 
 ###
 
-- 🔭 I’m currently working on [dlpal](github.com/antoniojsanchezm/dlpal)
+- 🔭 I’m currently working on [dlpal](https://github.com/antoniojsanchezm/dlpal)
 
 - 🌱 I’m currently learning to use **Electron** and how to code in **PHP**
 
